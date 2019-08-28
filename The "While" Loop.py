@@ -19,5 +19,3 @@ print("Hello")
 
 
 # In[ ]:
-
-sangho kim here
